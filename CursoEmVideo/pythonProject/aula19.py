@@ -3,7 +3,7 @@
 # dicionarios {}
 
 ''' 
-dados = dict()
+dados = dict(
 dados = { 'nome: 'Cássio,
           'idade: 23
  }
@@ -32,7 +32,7 @@ for key, value in filme.items():
     #Uma lista chamada brasil, com varios dicionarios, sendo eles os estados
 '''brasil = []
 estado1 = {'uf': 'São Paulo', 'sigla': 'Sp'}
-estado2 = {'uf': 'Rio de Janeiro', 'sigla': 'Rj'}
+estado2 = {'uf': 'Rio de Janeiro', 'sssigla': 'Rj'}
 
 brasil.append(estado1)
 brasil.append(estado2)
