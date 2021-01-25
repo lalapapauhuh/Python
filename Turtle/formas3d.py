@@ -1,7 +1,7 @@
 import turtle
 
 def risca(t, tam):
-    for i in range(120):
+    for i in range(200):
         t.forward(tam)
         t.left(150)   #  MUDA AQUI PRA UM DESSES  90, 91, 120, 150, 160 ,180
         tam += 3    
